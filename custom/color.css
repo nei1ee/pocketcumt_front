@@ -1,0 +1,70 @@
+.lines-blue-1 {
+    border-color: #1798d9;
+}
+
+.lines-blue-1, .blue-1 {
+    color: #1798d9;
+}
+
+.blue-2 {
+    color: #8cd3f1;
+}
+
+.blue-3 {
+    color: #c8f2fe;
+}
+
+.lines-orange-1 {
+    border-color: #ff907d;
+}
+
+.lines-orange-1, .orange-1 {
+    color: #ff907d;
+}
+
+.orange-2 {
+    color: #ffb5ac;
+}
+
+.orange-3 {
+    color: #ffdad4;
+}
+
+.bg-blue-1 {
+    background: linear-gradient(to bottom right, #1798d9, #8cd3f1);
+    /* box-shadow: 0rpx 7rpx 3rpx #8cd3f1; */
+    color: #fff;
+}
+
+.bg-blue-11 {
+    background: linear-gradient(to top right, #1798d9, #8cd3f1);
+    /* box-shadow: 0rpx 7rpx 3rpx #8cd3f1; */
+    color: #fff;
+}
+
+.bg-blue-2 {
+    background: linear-gradient(to bottom right, #8cd3f1, #c8f2fe);
+    /* box-shadow: 0rpx 7rpx 3rpx #c8f2fe; */
+    color: #fff;
+}
+
+.bg-blue-3 {
+    background: linear-gradient(to bottom right, #c8f2fe, #c8f2fe9d);
+    /* background-color: #c8f2fe; *//* box-shadow: 0rpx 7rpx 3rpx #c8f2fe; */
+    color: #fff;
+}
+
+.bg-orange-1 {
+    background-color: #ff907d;
+    color: #fff;
+}
+
+.bg-orange-2 {
+    background-color: #ffb5ac;
+    color: #fff;
+}
+
+.bg-orange-3 {
+    background-color: #ffdad4;
+    color: #fff;
+}

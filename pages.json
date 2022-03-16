@@ -1,0 +1,84 @@
+{
+    "pages" : [
+        //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+        {
+            "path" : "pages/index/index",
+            "style" : {}
+        },
+        {
+            "path" : "pages/home/home",
+            "style" : {}
+        },
+        {
+            "path" : "pages/course/course",
+            "style" : {}
+        },
+        {
+            "path" : "pages/mine/mine",
+            "style" : {}
+        },
+        {
+            "path" : "pages/login/login",
+            "style" : {}
+        },
+        {
+            "path" : "pages/mine/about/about",
+            "style" : {}
+        },
+        {
+            "path" : "pages/home/grade/grade",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/home/exam/exam",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/home/web/web",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/home/electric/electric",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/home/phone/phone",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/mine/update/update",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/home/map/map",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/home/book/book",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/home/book/bookdetail/bookdetail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/home/classroom/classroom",
+            "style" : {}
+        },{
+            "path" : "pages/course/addcourse/addcourse",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+    "globalStyle" : {
+        "navigationStyle" : "custom",
+        "navigationBarTextStyle" : "white",
+        "navigationBarTitleText" : "口袋矿大",
+        "navigationBarBackgroundColor" : "#1798d9",
+        "backgroundColor" : "#F8F8F8"
+    }
+}
